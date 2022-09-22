@@ -1,2 +1,2 @@
 # test-repo
-test
+공개sw프로젝트 과제
